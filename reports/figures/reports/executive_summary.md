@@ -1,21 +1,23 @@
 # Executive Summary
 
-This project introduces the **first predictive churn model** for marketplace sellers, 
-shifting from reactive monitoring to proactive, data-driven interventions.
+This project demonstrates the use of **machine learning for churn prediction** 
+in an e-commerce / marketplace seller context.  
+It represents a shift from reactive monitoring (dashboards showing what already happened) 
+to proactive, data-driven interventions that anticipate churn before it occurs.
 
 ## Key Findings
-- Predicts churn one month in advance with ~90% confidence.
-- **Churn drivers**: Conversion (42%) and Activity (30%) dominate risk.
-- **Enablers**: Traffic, Operations, Investment influence churn only when Conversion & Activity weaken.
-- Clear thresholds make churn risk tangible (e.g., GMV drop >25%, inactivity >2 days, cancellation >15%).
+- The model predicts churn **one month in advance** with high confidence.  
+- **Core churn drivers**: sales momentum and activity consistency.  
+- **Enablers**: traffic visibility, operational hygiene, and selective investments.  
+- Clear risk patterns were identified, enabling practical thresholds for intervention.
 
 ## Strategic Implications
-- AMs/BPOs can now anticipate seller churn early and intervene.
+- Account teams can use this approach to anticipate churn early and intervene effectively.  
 - **Three levers for intervention:**
-  1. **Conversion** – recover GMV/order flow (alerts, promos, pricing, product mix).
-  2. **Activity** – ensure LS consistency (streak incentives, nudges, onboarding).
-  3. **Enablers & Hygiene** – strengthen visibility, enforce low cancellations, selective campaigns.
+  1. **Conversion** – recover sales momentum through promotions, pricing, and product mix.  
+  2. **Activity** – maintain seller engagement via session consistency and onboarding.  
+  3. **Enablers** – improve visibility, reduce cancellations, apply targeted support programs.  
 
 ## Business Impact
-- Potential to **reduce churn by ~7pts** (+5% LS selling days protected).
-- Pilot rollout OKR: **5pp churn reduction within 3 months** in AM-managed groups.
+- Potential to reduce churn significantly in pilot rollouts, 
+protecting a meaningful share of seller sales volume.  
