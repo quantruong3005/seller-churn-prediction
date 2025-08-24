@@ -74,7 +74,7 @@ seller-churn-prediction/
 ---
 
 ## 🔒 Notes on Data
-- This repo uses **dummy/public datasets** for demonstration.  
+- This repo uses **dummy datasets** for demonstration.  
 - Original dataset and production model are **proprietary and not included**.  
 - To reproduce, you can test with open datasets like [Telco Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).  
 
