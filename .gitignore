@@ -1,13 +1,12 @@
-# Ignore data and models
-data/*
-!data/sample/
-
-models/
-*.pkl
-
-# Ignore notebooks checkpoints
-.ipynb_checkpoints/
-
-# Python cache
+# Python
 __pycache__/
 *.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Environment (optional, for future use)
+.env
