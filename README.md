@@ -83,3 +83,8 @@ seller-churn-prediction/
 ## 📝 License
 This project is published for **educational and portfolio purposes only**.  
 Not intended for commercial use without permission.
+
+---
+
+📌 **Note:** This project is shared as a case study for learning and demonstration.  
+Please see the [LICENSE](LICENSE) file for details.
