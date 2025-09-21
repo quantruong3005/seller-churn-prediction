@@ -14,36 +14,6 @@ to **proactive interventions** that identify at-risk sellers before they disenga
 
 ---
 
-## ⚙️ Project Structure
-seller-churn-prediction/
-│
-├── README.md # Project overview (this file)
-├── requirements.txt # Dependencies
-├── .gitignore # Ignore raw data/models
-│
-├── data/
-│ └── sample/ # Dummy dataset for demo
-│
-├── notebooks/ # Jupyter notebooks
-│ ├── 01_data_prep.ipynb
-│ ├── 02_model_train.ipynb
-│ └── 03_explainability.ipynb
-│
-├── src/ # Python scripts
-│ ├── data.py
-│ ├── train.py
-│ ├── evaluate.py
-│ └── explain.py
-│
-├── reports/ # Documentation
-│ ├── executive_summary.md
-│ ├── results.md
-│ └── figures/
-│
-└── LICENSE
-
----
-
 ## 🧪 Methodology
 1. **Data preparation** – Engineered seller activity, sales, and operational features.  
 2. **Model training** – Compared Logistic Regression, Random Forest, and LightGBM.  
