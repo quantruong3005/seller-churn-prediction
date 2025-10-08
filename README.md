@@ -23,8 +23,8 @@ to **proactive interventions** that identify at-risk sellers before they disenga
 ---
 
 ## 📊 Results (Demo Case)
-- Correctly identifies ~**9 out of 10 churners** one month in advance.  
-- Balanced performance: Precision ≈ 85%, Recall ≈ 87%, F1 ≈ 0.86.  
+- Correctly identifies ~**8 out of 10 churners** one month in advance.  
+- Balanced performance: Precision ≈ 80%, Recall ≈ 82%, F1 ≈ 0.80.  
 - **Top churn drivers**: sales momentum, session consistency, visibility, cancellations.  
 
 ---
