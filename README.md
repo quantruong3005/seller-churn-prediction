@@ -7,7 +7,6 @@ in a marketplace / e-commerce seller context.
 The goal is to move from reactive monitoring (dashboards showing what already happened) 
 to **proactive interventions** that identify at-risk sellers before they disengage.  
 
-- First-of-its-kind churn model (case study demo)  
 - Predicts churn **one month in advance** with high confidence  
 - Provides **interpretable drivers and thresholds** (e.g., sales momentum, session consistency, cancellations)  
 - Delivers actionable insights for account management & retention strategy  
