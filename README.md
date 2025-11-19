@@ -49,8 +49,8 @@ to **proactive interventions** that identify at-risk sellers before they disenga
 ---
 
 ## 📝 License
-This project is published for **educational and portfolio purposes only**.  
-Not intended for commercial use.
+- This project is published for **educational and portfolio purposes only**.  
+- Not intended for commercial use.
 ---
 
 📌 **Note:** This project is shared as a case study for learning and demonstration.  
