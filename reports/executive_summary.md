@@ -19,5 +19,5 @@ to proactive, data-driven interventions that anticipate churn before it occurs.
   3. **Enablers** – improve visibility, reduce cancellations, apply targeted support programs.  
 
 ## Business Impact
-- Potential to reduce churn significantly in pilot rollouts, 
-protecting a meaningful share of seller sales volume.  
+- Reduce churn significantly in pilot rollouts, 
+protecting a meaningful share of seller content sales volume.  
