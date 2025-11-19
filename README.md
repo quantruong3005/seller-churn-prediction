@@ -45,7 +45,6 @@ to **proactive interventions** that identify at-risk sellers before they disenga
 ## 🔒 Notes on Data
 - This repo uses **dummy datasets** for demonstration.  
 - Original dataset and production model are **proprietary and not included**.  
-- To reproduce, you can test with open datasets like [Telco Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).  
 
 ---
 
